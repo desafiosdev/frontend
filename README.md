@@ -1,4 +1,4 @@
-# Squad Frontend
+# Frontend
 
 PDF do template: [Tarefas.pdf](https://drive.google.com/file/d/1Bi5oFoCI7JBvM_vPBK1I5ZNTizfN3mmD/view?usp=sharing)
 
