@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color:#6D6D6D;
+}
+
+.title-main {
+    font-size: 30px;
+    font-weight: 700;
+    color: #6033DF;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 5.4375rem;
+    margin-bottom: 2.25rem;
+}
+
+.our-team {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-align: center;
+}
+
+.our-team li h3 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 0.625rem;
+}
+
+.our-team li h4 {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.our-team li a {
+    display: block;
+    color:#6D6D6D;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.our-team li a:hover {
+    text-decoration: underline;
+}
+
+.our-team li a img {
+    width: 10px;
+    margin-right: 2px;
+}
