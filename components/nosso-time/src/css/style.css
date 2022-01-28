@@ -19,6 +19,11 @@ body {
     margin-bottom: 2.25rem;
 }
 
+.container {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
 .our-team {
     display: flex;
     justify-content: space-around;
@@ -52,4 +57,24 @@ body {
 .our-team li a img {
     width: 10px;
     margin-right: 2px;
+}
+
+@media screen and (max-width: 500px) {
+    .our-team {
+        display: block;
+    }
+    
+    .our-team li {
+        margin-top: 1.875rem;
+    }
+
+    .our-team li:last-child {
+        margin-bottom: 1.875rem;
+    }
+}
+
+@media screen and (max-width: 185px) {
+    .title-main {
+        font-size: 20px;
+    }
 }
