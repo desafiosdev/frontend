@@ -48,7 +48,7 @@ body {
     color: #FFFF;
 }
 
-#botao {
+#navbar #botao {
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -57,6 +57,6 @@ body {
     border: 1px solid #fff;
 }
 
-#tarefas {
+#navbar #tarefas {
     font-weight: bold;
 }
