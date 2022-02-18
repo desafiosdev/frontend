@@ -1,4 +1,4 @@
-# Component: Header
+# Component: Navbar
 
 Component criado por [Victor](https://github.com/Vict0rCosta)
 
