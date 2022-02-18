@@ -1,6 +1,6 @@
 # Component: Header
 
-Component criado por [Victor]()
+Component criado por [Victor](https://github.com/Vict0rCosta)
 
 |  Projeto | Desenvolvimento |
 |----------|-----------------|
