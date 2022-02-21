@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style: circle;
+}
+
+body {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.titulo {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: rgba(91, 91, 91, 1);
+}
+
+.subtitulo {
+    color: rgba(144, 144, 144, 1);
+}
+
+.txt-input {
+    margin-left: 20px;
+    padding: 8px;
+    width: 350px;
+    border: 1px solid rgba(96, 51, 223, 1);
+    border-radius: 3px;
+}
+
+.bot {
+    position: relative;
+    width: 20px;
+    border: none;
+    left: -3%;
+    top: -2%;
+    cursor: pointer;
+}
+
+.botao-apagar {
+    margin-top: 100px;
+    padding: 2px;
+    border-radius: 4px;
+    background: rgb(255, 255, 255);
+    border: 1.25px solid rgba(96, 51, 223, 1);
+    box-shadow: 1px 2px rgb(57, 57, 58);
+}
+
+.botao-apagar:hover {
+    cursor: pointer;
+    background: rgb(226, 226, 226);
+}
+
+.resulta {
+    margin: 30px;
+}

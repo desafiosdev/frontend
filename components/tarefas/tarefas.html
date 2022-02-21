@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="assets/css/tarefas.css">
+    <title> Lista de Tarefas</title>
+</head>
+
+<body>
+    <header class="inicio">
+        <h1 class="titulo"> Minhas tarefas </h1>
+        <h2 class="subtitulo"> Organize seu dia a dia !</h2> <br>
+    </header>
+    <section class="content">
+        <input type="text" placeholder="Novo item na minha lista..." class="txt-input">
+        <button onclick="Clique()" class="bot"> <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M9.625 6.3125C9.625 6.14844 9.46094 5.98438 9.29688 5.98438H6.89062V3.57812C6.89062 3.41406 6.72656 3.25 6.5625 3.25H5.6875C5.49609 3.25 5.35938 3.41406 5.35938 3.57812V5.98438H2.95312C2.76172 5.98438 2.625 6.14844 2.625 6.3125V7.1875C2.625 7.37891 2.76172 7.51562 2.95312 7.51562H5.35938V9.92188C5.35938 10.1133 5.49609 10.25 5.6875 10.25H6.5625C6.72656 10.25 6.89062 10.1133 6.89062 9.92188V7.51562H9.29688C9.46094 7.51562 9.625 7.37891 9.625 7.1875V6.3125ZM12.25 1.9375C12.25 1.22656 11.6484 0.625 10.9375 0.625H1.3125C0.574219 0.625 0 1.22656 0 1.9375V11.5625C0 12.3008 0.574219 12.875 1.3125 12.875H10.9375C11.6484 12.875 12.25 12.3008 12.25 11.5625V1.9375ZM10.9375 11.3984C10.9375 11.5078 10.8555 11.5625 10.7734 11.5625H1.47656C1.36719 11.5625 1.3125 11.5078 1.3125 11.3984V2.10156C1.3125 2.01953 1.36719 1.9375 1.47656 1.9375H10.7734C10.8555 1.9375 10.9375 2.01953 10.9375 2.10156V11.3984Z" fill="#6033DF"/>
+            </svg>
+             </button>
+        <ul id="resultado"> </ul>
+        <button type="submit" onclick="apagar()" class="botao-apagar"> Apagar Tarefas </button>
+
+    </section>
+    <script src="assets/js/tarefas.js">
+    </script>
+</body>
+
+</html>
