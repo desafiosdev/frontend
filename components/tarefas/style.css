@@ -1,0 +1,145 @@
+.btt {
+    border: 2px solid #6033DF;
+    box-sizing: border-box;
+    border-radius: 7px;
+    background-color: #ffffff;
+    overflow: hidden;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    padding: 6px 10px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #6033DF;
+    outline: none !important;
+}
+
+#comecarbt {
+    width: 333px;
+    height: 55px;
+    left: 541px;
+    top: 966px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header {
+    text-align: center;
+    justify-content: center;
+}
+
+#imagem {
+
+    width: 430px;
+    height: 315px;
+    left: 486px;
+    top: 235px;
+    margin: 0 auto 0 auto;
+}
+
+#tarefas1 {
+
+    width: 398px;
+    height: 75.64px;
+    left: 508px;
+    top: 586px;
+    margin: 0 auto 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 75px;
+    line-height: 112px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #474747;
+}
+
+#tarefas2 {
+
+    width: 553px;
+    height: 43px;
+    left: 434px;
+    top: 728px;
+    margin: 0 auto 0 auto;
+    color: #6033DF;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#texto {
+
+    width: 684px;
+    height: 108px;
+    left: 359px;
+    top: 791px;
+    margin: 0 auto 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 28px;
+    text-align: center;
+    color: #858585;
+}
+
+#rodape {
+    background: #6033DF;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.39px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    height: 56.08px;
+    left: 0px;
+    bottom: 0;
+    margin: 0 auto 0 auto;
+}
+
+
+footer ul {
+    float: right;
+    display: table;
+    margin: 0 0 0 10px;
+}
+
+footer ul li {
+    display: table-cell;
+    position: flex;
+    margin: 0 0 0 10px;
+    align-items: center;
+}
+
+
+#github {
+    font-family: 'Poppins';
+    color: #ffffff;
+    font-style: normal;
+    text-decoration: none;
+    margin: 0 0 0 10px;
+    font-size: 12px;
+}
