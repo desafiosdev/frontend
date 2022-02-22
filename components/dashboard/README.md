@@ -1,6 +1,6 @@
 # Component: Dashboard
 
-Component criado por [Laís Marinho](https://github.com/FelipeGabriel7/)
+Component criado por [Felipe](https://github.com/FelipeGabriel7/)
 
 |  Projeto | Desenvolvimento |
 |----------|-----------------|
